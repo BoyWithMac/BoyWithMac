@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm BoyWithMac</h1>
+<h1 align="center">Hi 👋, I'm LemonadeS2</h1>
 <h3 align="center">Hi</h3>
 
 <h3 align="left">Connect with me:</h3>
